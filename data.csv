@@ -1,4 +1,12 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+SUNY Broome,"907 Front Street, Binghamton, NY",42.163338,-75.89201,"907 FRONT ST, BINGHAMTON, NY, 13901",Match,US Census
+Adirondack Park,"Northville, NY 12134",43.2256274,-74.1720768,"Northville, NY 12134, USA",Match,Google
+Half Moon Bay,"half moon bay, San Mateo County, California",37.4635519,-122.4285862,"Half Moon Bay, CA, USA",Match,Google
+Boston University,"72 East Concord St, boston Massachussetts",42.3364013,-71.072408,"72 E Concord St, Boston, MA 02118, USA",Partial Match,Google
+Syracuse University Maxwell School,"200 Eggers Hall, Syracuse, NY 13244",43.0379769,-76.1355729,"200 Eggers Hall, Syracuse, NY 13244, USA",Match,Google
+Houston Montrose ,"Montrose Street, Houston, TX",29.7427249,-95.3991907,"Montrose, Houston, TX, USA",Match,Google
+Sequoia National Park,"64740 Wuksachi Way, Sequoia National Park, CA",36.607864,-118.7524,"64740 WUKSACHI WAY, SEQUOIA NATIONAL PARK, CA, 93262",Match,US Census
+Organ Pipe National Monument,"10 Organ Pipe Dr, Ajo, AZ 85321",31.956636,-112.81118,"10 ORGAN PIPE DR, AJO, AZ, 85321",Exact,US Census
+Grand Canyon,"grand canyon,arizona, us",36.1069652,-112.1129972,"Grand Canyon National Park, Arizona, USA",Match,Google
+Manzano Mountains State ParK,"Co Rd B062, Mountainair, NM 87036",34.6190818,-106.3542127,"Co Rd B062, Mountainair, NM 87036, USA",Partial Match,Google
+Big Bend National Park,"Big Bend National Park, TX",29.1274869,-103.2425379,"Big Bend National Park, TX, USA",Match,Google
